@@ -1,0 +1,354 @@
+Local authorities,January 2020,January 2019,Difference
+Adur,£325359,£315376,3.2%
+Allerdale,£154319,£148231,4.1%
+Amber Valley,£179734,£170846,5.2%
+Arun,£283048,£281179,0.7%
+Ashfield,£144404,£139432,3.6%
+Ashford,£300678,£293677,2.4%
+Aylesbury Vale,£326665,£327670,-0.3%
+Babergh,£285473,£283325,0.8%
+Barking and Dagenham,£301057,£297181,1.3%
+Barnet,£520682,£528639,-1.5%
+Barnsley,£130068,£121547,7.0%
+Barrow-in-Furness,£119876,£118944,0.8%
+Basildon,£316832,£308438,2.7%
+Basingstoke and Deane,£308248,£304213,1.3%
+Bassetlaw,£168312,£154493,8.9%
+Bath and North East Somerset,£330975,£335609,-1.4%
+Bedford,£296025,£287509,3.0%
+Bexley,£331683,£338708,-2.1%
+Birmingham,£189161,£188356,0.4%
+Blaby,£237193,£227738,4.2%
+Blackburn with Darwen,£113240,£111940,1.2%
+Blackpool,£106983,£104249,2.6%
+Bolsover,£135416,£129368,4.7%
+Bolton,£137046,£136835,0.2%
+Boston,£151570,£150374,0.8%
+Bournemouth,£251725,£251896,-0.1%
+Bracknell Forest,£342450,£339149,1.0%
+Bradford,£133763,£135753,-1.5%
+Braintree,£270309,£290209,-6.9%
+Breckland,£225208,£224847,0.2%
+Brent,£408523,£479106,-14.7%
+Brentwood,£422691,£425067,-0.6%
+Brighton and Hove,£368224,£368748,-0.1%
+Broadland,£261421,£266577,-1.9%
+Bromley,£436757,£440624,-0.9%
+Bromsgrove,£296207,£289689,2.2%
+Broxbourne,£338339,£347458,-2.6%
+Broxtowe,£185825,£181476,2.4%
+Buckinghamshire,£399717,£402332,-0.7%
+Burnley,£86010,£79952,7.6%
+Bury,£183922,£176427,4.2%
+Calderdale,£146637,£143973,1.9%
+Cambridge,£435174,£441487,-1.4%
+Cambridgeshire,£299199,£294818,1.5%
+Camden,£810298,£867808,-6.6%
+Cannock Chase,£178120,£168566,5.7%
+Canterbury,£302100,£303549,-0.5%
+Carlisle,£136912,£137336,-0.3%
+Castle Point,£310330,£304957,1.8%
+Central Bedfordshire,£306025,£310638,-1.5%
+Charnwood,£219904,£226814,-3.0%
+Chelmsford,£331973,£330341,0.5%
+Cheltenham,£270072,£270824,-0.3%
+Cherwell,£286952,£287803,-0.3%
+Cheshire East,£226759,£226847,0.0%
+Cheshire West and Chester,£209431,£201796,3.8%
+Chesterfield,£158358,£156493,1.2%
+Chichester,£375252,£383367,-2.1%
+Chiltern,£533580,£552087,-3.4%
+Chorley,£179161,£183008,-2.1%
+Christchurch,£337597,£339118,-0.4%
+City of Bristol,£285296,£280143,1.8%
+City of Derby,£159403,£158898,0.3%
+City of Kingston upon Hull,£113565,£112330,1.1%
+City of London,£775309,£865636,-10.4%
+City of Nottingham,£151731,£143800,5.5%
+City of Peterborough,£199105,£192998,3.2%
+City of Plymouth,£176390,£176740,-0.2%
+City of Westminster,£1019028,£959408,6.2%
+Colchester,£253759,£265272,-4.3%
+Copeland,£121435,£116915,3.9%
+Corby,£184909,£178853,3.4%
+Cornwall,£236997,£232035,2.1%
+Cotswold,£397393,£373380,6.4%
+County Durham,£100643,£99964,0.7%
+Coventry,£184305,£187345,-1.6%
+Craven,£212185,£217318,-2.4%
+Crawley,£289146,£278620,3.8%
+Croydon,£368662,£365096,1.0%
+Cumbria,£157113,£154159,1.9%
+Dacorum,£400431,£400841,-0.1%
+Darlington,£130983,£130970,0.0%
+Dartford,£313451,£293965,6.6%
+Daventry,£270262,£270577,-0.1%
+Derbyshire,£180695,£178901,1.0%
+Derbyshire Dales,£256758,£261382,-1.8%
+Devon,£261153,£261486,-0.1%
+Doncaster,£130992,£125322,4.5%
+Dorset,£295375,£292441,1.0%
+Dover,£250505,£248236,0.9%
+Dudley,£182414,£173640,5.1%
+Ealing,£473268,£483336,-2.1%
+East Cambridgeshire,£291721,£278747,4.7%
+East Devon,£290163,£295065,-1.7%
+East Dorset,£357103,£345696,3.3%
+East Hampshire,£376047,£362374,3.8%
+East Hertfordshire,£386743,£390763,-1.0%
+East Lindsey,£176074,£180230,-2.3%
+East Northamptonshire,£242616,£241319,0.5%
+East Riding of Yorkshire,£179304,£178425,0.5%
+East Staffordshire,£184978,£181234,2.1%
+East Sussex,£282528,£280224,0.8%
+Eastbourne,£240325,£240364,0.0%
+Eastleigh,£290439,£281382,3.2%
+Eden,£189558,£194009,-2.3%
+Elmbridge,£588488,£586125,0.4%
+Enfield,£391365,£395616,-1.1%
+Epping Forest,£461889,£456214,1.2%
+Epsom and Ewell,£463931,£456307,1.7%
+Erewash,£164031,£168057,-2.4%
+Essex,£308908,£313470,-1.5%
+Exeter,£262342,£255852,2.5%
+Fareham,£300308,£295228,1.7%
+Fenland,£191612,£190217,0.7%
+Folkestone and Hythe,£268942,£260549,3.2%
+Forest Heath,£227463,£217054,4.8%
+Forest of Dean,£235934,£237757,-0.8%
+Fylde,£190502,£192797,-1.2%
+Gateshead,£125384,£131569,-4.7%
+Gedling,£191948,£183197,4.8%
+Gloucester,£210982,£203416,3.7%
+Gloucestershire,£270112,£263614,2.5%
+Gosport,£210652,£210869,-0.1%
+Gravesham,£280788,£276795,1.4%
+Great Yarmouth,£170565,£172391,-1.1%
+Greenwich,£392699,£385703,1.8%
+Guildford,£453012,£448083,1.1%
+Hackney,£571882,£527573,8.4%
+Halton,£142445,£140307,1.5%
+Hambleton,£238394,£229547,3.9%
+Hammersmith and Fulham,£749337,£722045,3.8%
+Hampshire,£315217,£311953,1.0%
+Harborough,£291733,£292988,-0.4%
+Haringey,£578728,£545524,6.1%
+Harlow,£276205,£272693,1.3%
+Harrogate,£284076,£279682,1.6%
+Harrow,£460121,£453365,1.5%
+Hart,£405669,£403953,0.4%
+Hartlepool,£106103,£112041,-5.3%
+Hastings,£217936,£212263,2.7%
+Havant,£256153,£266231,-3.8%
+Havering,£359188,£367019,-2.1%
+Herefordshire,£241217,£234842,2.7%
+Hertfordshire,£394507,£393995,0.1%
+Hertsmere,£450635,£456511,-1.3%
+High Peak,£203139,£198552,2.3%
+Hillingdon,£413229,£413405,0.0%
+Hinckley and Bosworth,£216398,£214854,0.7%
+Horsham,£385772,£380028,1.5%
+Hounslow,£412352,£397052,3.9%
+Huntingdonshire,£267625,£262337,2.0%
+Hyndburn,£99344,£95237,4.3%
+Ipswich,£196922,£197015,0.0%
+Isle of Wight,£221418,£219771,0.7%
+Islington,£673418,£635328,6.0%
+Kensington and Chelsea,£1178166,£1285331,-8.3%
+Kent,£295750,£292348,1.2%
+Kettering,£205791,£206714,-0.4%
+King's Lynn and West Norfolk ,£213713,£217790,-1.9%
+Kingston upon Thames,£483250,£482032,0.3%
+Kirklees,£155130,£149078,4.1%
+Knowsley,£134407,£128923,4.3%
+Lambeth,£526690,£501861,4.9%
+Lancashire,£146998,£143920,2.1%
+Lancaster,£151609,£153137,-1.0%
+Leeds,£191578,£182297,5.1%
+Leicester,£177556,£172451,3.0%
+Leicestershire,£230683,£229274,0.6%
+Lewes,£322185,£332665,-3.2%
+Lewisham,£412522,£402343,2.5%
+Lichfield,£259701,£250878,3.5%
+Lincoln,£156640,£152314,2.8%
+Lincolnshire,£188105,£184645,1.9%
+Liverpool,£131051,£133519,-1.8%
+Luton,£223120,£239951,-7.0%
+Maidstone,£285331,£284234,0.4%
+Maldon,£337643,£338840,-0.4%
+Malvern Hills,£280271,£266532,5.2%
+Manchester,£183234,£179844,1.9%
+Mansfield,£142880,£135389,5.5%
+Medway,£236510,£244928,-3.4%
+Melton,£220321,£221972,-0.7%
+Mendip,£251979,£257894,-2.3%
+Merton,£507897,£512341,-0.9%
+Mid Devon,£225881,£237284,-4.8%
+Mid Suffolk,£263528,£264259,-0.3%
+Mid Sussex,£373715,£372392,0.4%
+Middlesbrough,£116111,£110674,4.9%
+Milton Keynes,£257638,£257418,0.1%
+Mole Valley,£471557,£496906,-5.1%
+New Forest,£339315,£336565,0.8%
+Newark and Sherwood,£187948,£184156,2.1%
+Newcastle upon Tyne,£160730,£158458,1.4%
+Newcastle-under-Lyme,£157276,£153652,2.4%
+Newham,£368816,£358029,3.0%
+Norfolk,£226095,£228187,-0.9%
+North Devon,£248543,£242364,2.5%
+North Dorset,£259503,£263568,-1.5%
+North East Derbyshire,£187205,£189082,-1.0%
+North East Lincolnshire,£127569,£122715,4.0%
+North Hertfordshire,£348587,£341594,2.0%
+North Kesteven,£211815,£210793,0.5%
+North Lincolnshire,£149381,£147776,1.1%
+North Norfolk,£253629,£250267,1.3%
+North Somerset,£266975,£264302,1.0%
+North Tyneside,£164104,£162344,1.1%
+North Warwickshire,£205430,£205709,-0.1%
+North West Leicestershire,£213904,£205963,3.9%
+North Yorkshire,£221192,£218572,1.2%
+Northampton,£215272,£212448,1.3%
+Northamptonshire,£231035,£228171,1.3%
+Northumberland,£152526,£152481,0.0%
+Norwich,£202582,£207416,-2.3%
+Nottinghamshire,£183435,£175481,4.5%
+Nuneaton and Bedworth,£177185,£175041,1.2%
+Oadby and Wigston,£229950,£221626,3.8%
+Oldham,£138987,£133827,3.9%
+Oxford,£433918,£409640,5.9%
+Oxfordshire,£350470,£350263,0.1%
+Pendle,£109079,£98819,10.4%
+Poole,£307028,£313125,-1.9%
+Portsmouth,£212171,£211543,0.3%
+Preston,£129238,£124774,3.6%
+Purbeck,£313024,£320129,-2.2%
+Reading,£296092,£298742,-0.9%
+Redbridge,£418360,£420810,-0.6%
+Redcar and Cleveland,£122807,£115753,6.1%
+Redditch,£205130,£208312,-1.5%
+Reigate and Banstead,£398255,£407971,-2.4%
+Ribble Valley,£211616,£214813,-1.5%
+Richmond upon Thames,£675114,£655056,3.1%
+Richmondshire,£203226,£208450,-2.5%
+Rochdale,£146357,£138748,5.5%
+Rochford,£350988,£347162,1.1%
+Rossendale,£142955,£137199,4.2%
+Rother,£303664,£296383,2.5%
+Rotherham,£141213,£138101,2.3%
+Rugby,£231552,£236576,-2.1%
+Runnymede,£412742,£410660,0.5%
+Rushcliffe,£289246,£273618,5.7%
+Rushmoor,£287868,£282372,1.9%
+Rutland,£317931,£298135,6.6%
+Ryedale,£220139,£229791,-4.2%
+Salford,£168067,£163882,2.6%
+Sandwell,£156876,£149642,4.8%
+Scarborough,£171201,£165128,3.7%
+Sedgemoor,£228769,£226586,1.0%
+Sefton,£166788,£165346,0.9%
+Selby,£202804,£198217,2.3%
+Sevenoaks,£419155,£422598,-0.8%
+Sheffield,£172357,£164509,4.8%
+Shropshire,£220540,£211431,4.3%
+Slough,£283324,£297427,-4.7%
+Solihull,£280913,£283777,-1.0%
+Somerset,£235120,£233749,0.6%
+South Bucks,£582254,£595973,-2.3%
+South Cambridgeshire,£382217,£376622,1.5%
+South Derbyshire,£195822,£196777,-0.5%
+South Gloucestershire,£275854,£276997,-0.4%
+South Hams,£306000,£316561,-3.3%
+South Holland,£191770,£189829,1.0%
+South Kesteven,£214900,£214536,0.2%
+South Lakeland,£240117,£227660,5.5%
+South Norfolk,£258699,£259952,-0.5%
+South Northamptonshire,£321755,£319867,0.6%
+South Oxfordshire,£405669,£396887,2.2%
+South Ribble,£171400,£172848,-0.8%
+South Somerset,£232442,£225021,3.3%
+South Staffordshire,£233102,£231544,0.7%
+South Tyneside,£136775,£129891,5.3%
+Southampton,£210018,£212922,-1.4%
+Southend-on-Sea,£285337,£282737,0.9%
+Southwark,£502612,£500164,0.5%
+Spelthorne,£368126,£368627,-0.1%
+St Albans,£502294,£494016,1.7%
+St Edmundsbury,£282036,£281589,0.2%
+St Helens,£137675,£128857,6.8%
+Stafford,£205186,£206816,-0.8%
+Staffordshire,£195894,£191866,2.1%
+Staffordshire Moorlands,£185135,£177915,4.1%
+Stevenage,£282547,£280620,0.7%
+Stockport,£235358,£225710,4.3%
+Stockton-on-Tees,£136397,£136746,-0.3%
+Stoke-on-Trent,£113908,£109971,3.6%
+Stratford-on-Avon,£323734,£326087,-0.7%
+Stroud,£279964,£275428,1.6%
+Suffolk,£246563,£243441,1.3%
+Suffolk Coastal,£296092,£293011,1.1%
+Sunderland,£117032,£114419,2.3%
+Surrey,£441498,£444102,-0.6%
+Surrey Heath,£387654,£394561,-1.8%
+Sutton,£371626,£374145,-0.7%
+Swale,£249410,£250729,-0.5%
+Swindon,£214119,£215825,-0.8%
+Tameside,£153137,£147144,4.1%
+Tamworth,£186569,£185433,0.6%
+Tandridge,£467377,£452550,3.3%
+Taunton Deane,£231413,£234729,-1.4%
+Teignbridge,£249465,£243007,2.7%
+Telford and Wrekin,£171524,£166099,3.3%
+Tendring,£211421,£226129,-6.5%
+Test Valley,£329603,£319295,3.2%
+Tewkesbury,£283326,£272517,4.0%
+Thanet,£238024,£237399,0.3%
+Three Rivers,£513273,£515757,-0.5%
+Thurrock,£263259,£268733,-2.0%
+Tonbridge and Malling,£363117,£361047,0.6%
+Torbay,£206066,£195981,5.1%
+Torridge,£232324,£231408,0.4%
+Tower Hamlets,£450669,£434143,3.8%
+Trafford,£290392,£289923,0.2%
+Tunbridge Wells,£386245,£382734,0.9%
+Uttlesford,£403820,£398362,1.4%
+Vale of White Horse,£352294,£355528,-0.9%
+Wakefield,£152966,£149060,2.6%
+Walsall,£169175,£166023,1.9%
+Waltham Forest,£452299,£435182,3.9%
+Wandsworth,£610256,£587609,3.9%
+Warrington,£200176,£194099,3.1%
+Warwick,£309184,£306200,1.0%
+Warwickshire,£252386,£252270,0.0%
+Watford,£344163,£341861,0.7%
+Waveney,£201439,£194048,3.8%
+Waverley,£435969,£452024,-3.6%
+Wealden,£334514,£330906,1.1%
+Wellingborough,£222933,£211536,5.4%
+Welwyn Hatfield,£390834,£386260,1.2%
+West Berkshire,£345042,£348920,-1.1%
+West Devon,£254769,£255520,-0.3%
+West Dorset,£291964,£282428,3.4%
+West Lancashire,£184579,£184827,-0.1%
+West Lindsey,£194522,£167544,16.1%
+West Oxfordshire,£309952,£325502,-4.8%
+West Somerset,£236688,£226826,4.3%
+West Sussex,£326563,£323247,1.0%
+Weymouth and Portland,£224159,£223116,0.5%
+Wigan,£136935,£132652,3.2%
+Wiltshire,£270465,£277869,-2.7%
+Winchester,£395768,£401798,-1.5%
+Windsor and Maidenhead,£477182,£481272,-0.8%
+Wirral,£165618,£161079,2.8%
+Woking,£424388,£419498,1.2%
+Wokingham,£406721,£399486,1.8%
+Wolverhampton,£158871,£150909,5.3%
+Worcester,£213279,£207988,2.5%
+Worcestershire,£245129,£238914,2.6%
+Worthing,£279466,£275004,1.6%
+Wychavon,£282317,£275604,2.4%
+Wycombe,£391615,£390874,0.2%
+Wyre,£160109,£150373,6.5%
+Wyre Forest,£203225,£192411,5.6%
+York,£255955,£252719,1.3%
+England,£247355,£244641,1.1%
